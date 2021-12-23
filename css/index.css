@@ -1,13 +1,11 @@
 img{
 	width:500px;
 	height:500px;
+	box-shadow : 5px 5px grey;
 }
 h1 {
 	text-align : center ;
- 	text-color : #ff12ff ;
+ 	color : #ff12ff ;
 	font-family : courier new ;
-	
-}
-div {
-	box-shadow : 5px 5px red, 10px 10px green, 15px 15px blue ;
+	border: 2px dashed #12ff44;
 }
