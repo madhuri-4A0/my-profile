@@ -11,6 +11,3 @@ h1 {
 div {
 	box-shadow : 5px 5px red, 10px 10px green, 15px 15px blue ;
 }
-.cl {
-	box-shadow : 5px 5px red inset, 10px 10px green inset , 15px 15px blue inset;
-}
