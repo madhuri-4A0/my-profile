@@ -1,0 +1,19 @@
+<html> 
+<head>
+<title> madhuri's profile </title>
+<meta name="viewport" content="width-device-width">
+
+<link rel="stylesheet" href="css/index.css" />
+
+</head>
+
+<body>
+     <h1> Madhuri </h1>
+	 
+	 <p> Hello I am P.Madhuri.This wedsite is to showcase my skills in web desiging. </p>
+	 
+	 <h3>These are my certificataions</h3>
+	 <img src="img/figure.jpg" alt=" figure"/>	 
+	</body>
+
+</html>	
