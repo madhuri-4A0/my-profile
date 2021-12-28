@@ -9,3 +9,7 @@ h1 {
 	font-family : courier new ;
 	border: 2px dashed #12ff44;
 }
+
+table{
+	text-align: center;
+}
