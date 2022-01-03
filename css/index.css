@@ -23,7 +23,7 @@ table{
 .profile img{
 		width: 100px;
 		height:100px;
-		float:right;
+		float:left;
 		position:relative;
 	}
 body{
