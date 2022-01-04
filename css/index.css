@@ -4,7 +4,6 @@ img{
 	box-shadow : 5px 5px grey;
 }
 div{
-	width:250px;
 	background-color:beige;
 	padding:50px;
 	margin:20px;
@@ -23,7 +22,7 @@ table{
 .profile img{
 		width: 100px;
 		height:100px;
-		float:left;
+		float:right;
 		position:relative;
 	}
 body{
