@@ -3,10 +3,10 @@ img{
 	height:500px;
 	box-shadow : 5px 5px grey;
 }
-div{
+.web{
 	background-color:beige;
 	padding:50px;
-	margin:20px;
+	margin-top:60px;
 	border: 20px solid gray;
 }
 h1 {
