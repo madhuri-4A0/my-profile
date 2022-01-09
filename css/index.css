@@ -30,3 +30,10 @@ body{
 	margin:50px 50px 50px 50px;
 	padding:10px 10px 10px 10px;
 	}
+p {
+	border:2px solid black;
+	margin:auto;
+	padding:20px;
+	text-align: center;
+
+}
